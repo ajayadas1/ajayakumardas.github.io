@@ -1,0 +1,105 @@
+	body
+	{
+		color: #fff;
+		background:url("../img/intro-bg_1.jpg") no-repeat center;
+		font-family: 'Roboto', sans-serif;
+	}
+	.header
+	{
+		background-color:#000;  
+		color:#fff;    
+		border-color: black;    
+		min-height: 50px;  
+		border: 1px solid transparent; 
+	}
+	.inner-header
+	{
+		 width:80%;    
+		 margin:auto; 
+	}
+	.logo
+	{
+		 float: left;
+		 height: 50px; 
+		 padding: 15px;   
+		 font-size: 20px;  
+		 font-weight: bold; 
+	}
+    .form-control
+    {
+		height: 41px;
+		background: #f2f2f2;
+		box-shadow: none !important;
+		border: none;
+	} 
+	.signup-form
+	{
+		width: 390px;
+		margin: 30px auto;
+	}
+	.form
+	{
+		color: #999;
+		border-radius: 3px;
+    	margin-bottom: 15px;  
+        padding: 30px;
+    }
+	.signup-form h2 
+	{
+		color: #333;
+		font-weight: bold;
+        margin-top: 0;
+    }
+    .signup-form p
+    {
+		color: #333;
+		font-weight: bold;
+        margin-top: 0;
+    }
+    .hint-text
+    {
+    	margin-left: 105px;
+		color: #333;
+		font-weight: bold;
+        margin-top: 0;
+    }
+    .signup-form hr
+    {
+        margin: 0 -30px 20px;
+    }    		
+    .signup-form .btn
+    {        
+        font-size: 16px;
+        font-weight: bold;
+		background: #3598dc;
+		border: none;
+		min-width: 140px;
+    }
+    .checkbox-inline
+    {
+    	font-weight: bold;
+    	color: #333;
+    }
+    .container
+    {
+          width:100%; 
+          height: 47px;   
+          overflow:hidden; 
+    }
+    .foter
+    {
+        margin-top: 1px;
+        height: 57px;
+        border: 1px;
+        background-color: #000; 
+        color:#fff;
+    }
+    h3
+    {
+        text-align: center;
+    }
+	
+    
+	
+		
+    
